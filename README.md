@@ -1,2 +1,14 @@
 # URL-Shortener
-This is url shortener tool. You can make short your long Url using this tool.
+pip install pyshorteners
+
+rm -rf URL-Shortener
+
+git clone https://github.com/Montasir000/URL-Shortener
+
+ls
+
+cd URL-Shortener
+
+ls
+
+python url-shortener.py
