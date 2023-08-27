@@ -7,7 +7,7 @@ git clone https://github.com/Montasir000/URL-Shortener
 
 ls
 
-cd URL_Shortener
+cd URL-Shortener
 
 ls
 
